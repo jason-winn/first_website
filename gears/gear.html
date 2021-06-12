@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+<style>
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	height:100%;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+#gear {
+	width:600px;
+	height:600px;
+	position:fixed;
+	left:-410px;
+	top:15px;
+	z-index:2;
+}
+#container {
+	height:2000px;
+	position:absolute;
+	left:172px;
+
+}
+
+#track {
+	background-image:url(tiley.png);
+	background-repeat:repeat-y;
+	width:40px;
+	height:100%;
+	position:absolute;
+	left:0;
+}
+
+#textcontent {
+	position:absolute;
+	left:30px;
+	background-color:#CCC;
+	height:1940px;
+	width:500px;
+	padding:30px;
+}
+
+</style>
+
+ <script type="text/javascript" src="jquery.js"></script> 
+ <script type="text/javascript" src="jQueryRotate.2.1.js"></script> 
+       
+
+
+</head>
+
+<body>
+
+<script type="text/javascript">
+var myAngle = 0;
+
+function rotateObject() {
+	
+var sY = window.scrollY;
+// Increase number by one
+myAngle = sY/1844*-360;
+
+// Rotate the mill
+$("#pic").rotate(myAngle);
+}
+
+// Execute the function in set interval
+setInterval(rotateObject, 1);
+</script>
+
+<div id="gear"><img id="pic" src="gear.png"></img></div>
+<div id="container">
+
+	<div id="track"></div>
+	<div id="textcontent">Lorem ipsum dolor sit amet, omnis leo nam phasellus facilisi ornare tellus, dui laoreet pellentesque egestas nostra nulla, pharetra mauris tellus nascetur iaculis dis arcu, felis neque curabitur ipsum nec ac ipsum. Tincidunt duis duis in pharetra cras morbi, tempus dignissim varius metus quis porta, egestas vestibulum pellentesque proin massa elit orci. Condimentum ut curabitur orci justo urna mauris, est mauris diam dignissim elementum fusce, molestie velit neque mauris mi ut id, sed fusce mauris nam id per justo, aliquam viverra imperdiet eu lectus arcu. Dignissim molestie posuere vulputate eu non, suspendisse eget litora mollis sit lacus, interdum laoreet tristique ante nec arcu, a sagittis arcu eros est integer porta. Mollis neque cursus quisque morbi gravida sapien, et ut semper ut eu urna, felis ut per vitae elit erat pede, et nonummy sollicitudin interdum in neque adipiscing, diam felis magna et tristique integer. Vel nunc a primis vero ipsum, urna consectetuer elit ipsum proin pulvinar, scelerisque a porttitor eget est vitae feugiat, sed sagittis aenean varius felis eros sed, tellus posuere est nulla est diam in. Tempus arcu mattis adipiscing nulla lorem, a feugiat mattis magna ac erat, vitae dui bibendum massa sapien ullamco, enim non magnis nulla eu molestie vestibulum. Dictum erat et purus amet nec, orci diam sem tempus diam dui ipsum, bibendum sapien ipsum pulvinar risus varius a. Maecenas nunc donec eget diam leo a, lobortis ullamcorper aenean tempus malesuada nunc fermentum, sapien odio neque tempus dictumst libero dui, mauris parturient ultricies arcu nulla in praesent. Euismod enim vitae faucibus sequi sodales dolor, sed mollis velit morbi massa praesent, in nec cras rutrum consectetuer eget. Ornare consequat vel vitae suspendisse sed, amet quam posuere odio habitasse tristique consectetuer, nulla vitae cras phasellus dapibus magna vestibulum, mi arcu sed consectetuer eget ac, mauris dui erat nullam ultrices felis. Velit duis purus ultricies neque ante, gravida ante ipsum est lacus ullamcorper vitae, nec massa nullam nunc facilisis duis, luctus quis pede enim imperdiet urna, congue egestas nibh erat per sed rutrum.
+Elit massa dapibus lacus lectus sit mollis, suscipit non lacus a lectus parturient aenean, nascetur fusce neque sed quisque nec. Wisi et odio rhoncus veniam eros, gravida nam nullam at sem viverra magna, omnis quam iaculis vitae tempus egestas. Ac metus erat integer non cursus et, wisi nunc lectus nibh nec tempor in, at libero augue aliquam pretium suspendisse, dui dis facilisis urna condimentum lectus. Elementum tellus proin feugiat quam est, duis rutrum etiam vivamus auctor sit, nulla purus vivamus felis tortor massa sem, vulputate interdum justo mauris erat fermentum, quis at ipsum amet porta sapien egestas. Tortor luctus risus fusce pharetra cum, pellentesque eget viverra leo adipiscing sociis, consequat eleifend inventore placerat posuere mollis, orci mauris aute ad integer lacus eget, odit lectus suspendisse vitae ullamcorper quam. Massa ullamcorper ante eget congue dictum, hac ligula eleifend malesuada mi nunc, tellus tempus volutpat nec enim consectetuer. Sagittis nec lectus non parturient leo est, eget ante nam est praesent eget, et risus fringilla orci amet consectetuer, amet turpis massa vitae libero lorem. Tellus aenean pretium erat consectetuer ligula purus, pharetra neque nullam lacus sed nunc, pellentesque rhoncus tortor lobortis fringilla ut, purus platea nulla auctor primis amet. Consequat et enim id ridiculus tellus dolor, in molestie phasellus lacus augue nunc elementum, est sit elit viverra cras lorem nunc, a iaculis magna risus et alias. Vitae porro pellentesque ipsum quam mauris, eaque nec numquam lectus sapien porttitor per, eleifend turpis et curabitur urna viverra.
+Pulvinar turpis et mauris metus ultricies, ultricies congue integer leo sit nibh eget, curabitur faucibus velit lectus risus scelerisque magna, suspendisse ligula lacinia magna sed laoreet nulla. Id porttitor platea euismod elit neque et, a vestibulum sed magna adipiscing ornare, tortor phasellus id id lacus eu pretium, curabitur pede magna fermentum vel amet. Orci malesuada id qui tincidunt adipiscing justo, tincidunt diam nec enim lorem nullam, donec justo quis mattis id egestas purus, purus justo eget sit praesent tortor dignissim, augue pellentesque eget erat lorem vestibulum. Pede lorem conubia natoque elit tellus elementum, wisi mollis amet a pede wisi, proin porttitor consequat justo adipiscing quisque, in ante elit leo pharetra amet tellus, sapien quaerat velit mauris id parturient. Viverra erat aliquam iusto est arcu, justo sagittis torquent vulputate iaculis consectetuer aenean, sem integer phasellus nulla natoque sociosqu maecenas, turpis ut ut dignissim est metus, vel interdum ipsum mauris platea arcu. Dapibus amet placerat vel mauris libero ut, in tortor ridiculus duis purus sem, hymenaeos tincidunt nam sollicitudin lacinia nisl mauris. Et vestibulum molestie vitae enim turpis neque, mi elit quam magna wisi nulla quam, ut sodales mattis lorem at vel, vitae justo nunc velit condimentum luctus mi, id enim eros pharetra mi massa. Sed montes interdum eleifend quisque sapien, nisl nam parturient amet pellentesque velit nulla, egestas amet nulla phasellus mi commodo. Dolor lectus accumsan urna pellentesque sit, vehicula tristique mollis vestibulum purus vestibulum pellentesque, nulla nam odio augue donec leo convallis. Nec nibh accumsan aliquam purus dui nulla, urna torquent magna ut diam lectus, integer praesent suspendisse ante consectetuer eu sed. Nunc ac vivamus rhoncus risus dapibus enim, sed turpis sapien cras vestibulum ipsum, arcu lorem feugiat quis in cursus ultrices, quam tortor mauris in non tincidunt, et lacus id volutpat non sed placerat.</div>
+	
+</div>
+
+</body>
+</html>

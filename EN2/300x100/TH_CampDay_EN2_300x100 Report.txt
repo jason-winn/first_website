@@ -1,0 +1,50 @@
+﻿TH_CampDay_EN2_300x100.swf Movie Report
+----------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          32226          32226    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  2488
+
+Symbol             Shape Bytes    Text Bytes    ActionScript Bytes
+---------------    -----------    ----------    ------------------
+campDay Logo              1705             0                     0
+copy1                        0            68                     0
+copy2                        0            78                     0
+copy3                        0            60                     0
+copy4                        0            47                     0
+copy5                        0            94                     0
+cup                          0             0                     0
+foundation Logo              0             0                     0
+kid1                         0             0                     0
+kid2                         0             0                     0
+kid3                         0             0                     0
+kids                         0             0                     0
+maskRect                    29             0                     0
+streak                       0             0                     0
+
+Font Name                     Bytes         Characters
+--------------------------    ----------    ----------
+AmericanTypewriter-MediumA          4982     .BFHTacdefghiklmnoprstuvy
+
+ActionScript Bytes    Location
+------------------    --------
+              2488    Scene 1:ACTIONS:1
+              3762    ActionScript 2.0 Classes
+
+Bitmap            Compressed    Original      Compression
+--------------    ----------    ----------    -----------
+campdayBB.png           2932          7120    JPEG Quality=94
+foundation.png           874         13104    Lossless
+cupSS.png               6253         74880    JPEG Quality=80
+streak.png               549         11628    Lossless
+kid3.png                3166         26572    JPEG Quality=80
+kid2.png                2433         14204    JPEG Quality=80
+kid1.png                2001         15372    JPEG Quality=80
+
+
+
+

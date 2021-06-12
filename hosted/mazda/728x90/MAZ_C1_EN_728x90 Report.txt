@@ -1,0 +1,63 @@
+﻿MAZ_C1_EN_728x90.swf Movie Report
+----------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          34554          34554    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  3776
+
+Symbol              Shape Bytes    Text Bytes    ActionScript Bytes
+----------------    -----------    ----------    ------------------
+bg                           35             0                     0
+bmask                        22             0                     0
+btn_legal                    18            60                     0
+car_red                       0             0                     0
+copy1                         0           110                     0
+copy2                         0            99                     0
+copy3                         0            67                     0
+end_btn_1                     0            43                     0
+mc_mazdaLogoFlag            378             0                     0
+legal_copy                    0           165                     0
+mask                         26             0                     0
+mc_logo                      23             0                     0
+Symbol 1                      0             0                     0
+Symbol 2                      0             0                     0
+Symbol 3                      0            22                     0
+Symbol 4                      0             0                     0
+Symbol 5                      0             0                     0
+Symbol 6                      0             0                     0
+Symbol 7                      0             0                     0
+Symbol 8                      0             0                     0
+Symbol 8 copy                 0             0                     0
+Symbol 8 copy 2               0             0                     0
+Symbol 9                      0             0                     0
+Symbol 10                     0             0                     0
+Symbol 13                     0             0                     0
+tire                          0             0                     0
+want                          0            23                     0
+zoom                        384             0                     0
+
+Font Name               Bytes         Characters
+--------------------    ----------    ----------
+Interstate-Bold Bold           744     3ACDEIMNPRXZ
+Interstate-Regular            1930     ().0123AHMNSTUacdefghilmnoprstwyz
+Mazda-Bold Bold               3524     ,.0123?ACDEGILMNOPRSTUWYabcdefghiklmnoprstuvwyz{
+
+ActionScript Bytes    Location
+------------------    --------
+              3776    Scene 1:ACTIONS:1
+             14244    ActionScript 2.0 Classes
+
+Bitmap            Compressed    Original      Compression
+--------------    ----------    ----------    -----------
+mazda_blue.png          2372         69120    JPEG Quality=10
+tire2.png                967          4356    JPEG Quality=60
+beans.png               3497         43920    JPEG Quality=80
+logos.png               1146         11100    Lossless
+
+
+
+

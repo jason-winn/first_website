@@ -1,0 +1,48 @@
+﻿HSBC_GR_EN_300x250.swf Movie Report
+------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          39180          39180    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  3938
+
+Symbol          Shape Bytes    Text Bytes    ActionScript Bytes
+------------    -----------    ----------    ------------------
+ARROW                    25             0                     0
+copy1                     0            98                     0
+copy2                     0           100                     0
+copy3                     0           128                     0
+copy4                     0           128                     0
+endCopy1                  0           118                     0
+endCopy2                  0           110                     0
+latitude                  0            64                     0
+mc Lean more              0            49                     0
+mc Legal                  0            54                     0
+mc LOGO                1704             0                     0
+mcBuild                   0            75                     0
+pic1                      0             0                     0
+pic2                      0             0                     0
+Red Bar                  67             0                     0
+
+Font Name               Bytes         Characters
+--------------------    ----------    ----------
+Univers-Bold                  1815     .LNSabdefhilnorstuvw
+Univers-Light                 3757     ,-.0568ABCEHKNOPRSUabcdefghilmnoprstuvwy°
+Univers-LightOblique          1028     BCHSadkn
+
+ActionScript Bytes    Location
+------------------    --------
+              3938    Scene 1::: AS :::1
+              5997    ActionScript 2.0 Classes
+
+Bitmap                      Compressed    Original      Compression
+------------------------    ----------    ----------    -----------
+Horse-riders_ZOOM.jpg             9218        300000    JPEG Quality=40
+Mirror_Edinburgh_RGB.jpg         10038        300000    JPEG Quality=40
+
+
+
+

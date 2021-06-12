@@ -1,0 +1,546 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, tt, var, dd, dl, dt, li, ol, ul, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	font-size:100%;
+	border:0;
+	margin:0;
+	padding:0;
+	vertical-align:baseline;
+	
+}
+
+img, a, div { behavior: url(../iepngfix.htc) }
+
+
+a img, :link img, :visited img {
+	border:0;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+ol, ul {
+	list-style:none;
+}
+
+q:before, q:after, blockquote:before, blockquote:after {
+	content:"";
+}
+
+object {
+	outline:none;
+}
+
+html, body {
+	color: #FFF;
+	font-size: 12px;
+	font-family: arial, helvetica, sans-serif;
+	text-align: justify;
+	line-height: 1.5;
+	height: 100%;
+}
+
+#banner {
+	background-image:url(../images/banner_tile.png);
+	width:100%;
+	height:154px;
+	position:absolute;
+
+}
+
+#gray {
+	background-color:#333333;
+	width:100%;
+	height:auto;
+	top:35px;
+	position:relative;
+}
+
+#wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -280px; /* the bottom margin is the negative value of the footer's height */
+}
+
+.footer {
+	height: 280px; /* .push must be the same height as .footer */
+}
+
+.push {
+	height:130px;
+}
+
+.footer {
+	background-image:url(../images/gradient.png);
+	width:100%;
+	position:relative;
+	z-index:-1;
+}
+
+#wraphead {
+	width: 960px;
+	height: 100px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#wrapnav {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+li.nav1 {
+	width: 152px;
+	float: left;
+}
+
+li.nav2 {
+	width: 152px;
+	float: left;
+}
+
+li.nav3 {
+	width: 152px;
+	float: left;
+}
+
+li.nav4 {
+	width: 154px;
+	float: left;
+}
+
+.mnav {
+	display: block;
+	width: 150px;
+	height: 133px;
+	background: url("../images/nav.png") no-repeat 0 0;
+	float:left;
+}
+
+.mnav-active {
+	display: block;
+	width: 150px;
+	height: 133px;
+	background: url("../images/nav.png") no-repeat 0 -133px;
+	float:left;
+}
+
+.mnav:hover {
+	background-position: 0 -133px;
+}
+
+.mnav span {
+	display: none;
+}
+
+.mnav-active span {
+	display: none;
+}
+
+.mnav2-active span {
+	display: none;
+}
+
+.mnav2-activesplat span {
+	display: none;
+}
+
+.mnav2 {
+	display: block;
+	width: 180px;
+	height: 133px;
+	background: url("../images/nav180.png") no-repeat 0 0;
+	float:left;
+}
+
+.mnav2splat {
+	display: block;
+	width: 150px;
+	height: 133px;
+	background: url("../images/navsplat.png") no-repeat 0 0;
+	float:left;
+}
+
+.mnav2-active {
+	display: block;
+	width: 180px;
+	height: 133px;
+	background: url("../images/nav180.png") no-repeat 0 -133px;
+	float:left;
+}
+
+.mnav2-activesplat {
+	display: block;
+	width: 150px;
+	height: 133px;
+	background: url("../images/navsplat.png") no-repeat 0 -133px;
+	float:left;
+}
+
+.mnav2:hover {
+	background-position: 0 -133px;
+}
+
+
+.mnav2splat:hover {
+	background-position: 0 -133px;
+}
+
+.mnav2 span {
+	display: none;
+}
+
+.mnav2splat span {
+	display: none;
+}
+
+#homelabel {
+	background: url("../labels/home.png") no-repeat 0 0;
+	position:relative;
+	width:101px;
+	height:47px;
+	left:25px;
+	top:40px;
+}
+
+#worklabel {
+	background: url("../labels/work_refresh.png") no-repeat 0 0;
+	position:relative;
+	width:114px;
+	height:47px;
+	left:18px;
+	top:40px;
+}
+
+#gameslabel {
+	background: url("../labels/games.png") no-repeat 0 0;
+	position:relative;
+	width:114px;
+	height:47px;
+	left:18px;
+	top:40px;
+}
+
+#contactlabel {
+	background: url("../labels/contact.png") no-repeat 0 0;
+	position:relative;
+	width:101px;
+	height:47px;
+	left:25px;
+	top:40px;
+}
+
+div.split {
+	background-image:url(../images/split.png);
+	width:2px;
+	height:133px;
+	float:left;
+	position:relative;
+}
+
+
+div.shadow {
+	background-image:url(../images/shadow.png);
+	width:20px;
+	height:133px;
+	position:absolute;
+	left:2px;
+}
+
+#logo {
+	width: 249px;
+	height: 100px;
+	background: url(../images/signature.png) 0 0 no-repeat;
+	position: relative;
+	top: 18px;
+	left: 0;
+	display: block;
+}
+
+.wrapContent {
+	width: 960px;
+	margin: 0 auto;
+	height:auto;
+}
+.wrapContent2 {
+	width: 960px;
+	height:auto;
+}
+
+#header1 {
+	background-image:url(../headers/h1_refresh.png);
+	background-repeat:no-repeat;
+	width:467px;
+	height:100px;
+	padding-bottom:30px;
+}
+
+#header2 {
+	background-image:url(../headers/h2.png);
+	background-repeat:no-repeat;
+	width:546px;
+	height:26px;
+	padding-bottom:30px;
+}
+
+#header3 {
+	background-image:url(../headers/h3.png);
+	background-repeat:no-repeat;
+	width:558px;
+	height:28px;
+	padding-bottom:30px;
+}
+
+.homeleft {
+	width: 460px;
+	padding-top:30px;
+	padding-bottom:30px;
+	position:relative;
+}
+#portfolio { width: 450px; height: 244px; position: relative; z-index: 1; display: none; }
+	#portfolio a { border: 0; }
+	
+	#portfolio2 { width: 684px; height: 348px; position: relative; z-index: 1; display: none; }
+	#portfolio2 a { border: 0; }
+
+.portleft {
+	width: 960px;
+	padding-top:30px;
+	padding-bottom:30px;
+	position:relative;
+}
+
+.processleft {
+	width: 530px;
+	padding-top:30px;
+	padding-bottom:30px;
+	position:relative;
+}
+
+#picture {
+	width:450px;
+	height:0;
+	float:right;
+	margin-top:25px;
+	overflow:visible;
+	clear:right;
+}
+#picture3 {
+	width:450px;
+	height:0;
+	float:right;
+	margin-top:25px;
+	overflow:visible;
+	clear:right;
+}
+
+#picture2 {
+	width:382px;
+	height:283px;
+	float:right;
+	background:url(../images/me.png);
+}
+
+#bgpic {
+	background:url(../hometicker/bgslide.png);
+	width:450px;
+	height:339px;
+	float:right;
+	clear:right;
+}
+#bgpic2 {
+	background:url(../images/iphone.png);
+	width:684px;
+	height:348px;
+	float:right;
+	clear:right;
+}
+
+.title {
+	font-size: 14px;
+	font-weight:bold;
+	font-family: arial, helvetica, sans-serif;
+	text-align:left;
+	color:#333;
+	line-height:normal;
+}
+
+.description {
+	color:#333;
+	line-height:1.4;
+	padding-top:10px;
+}
+
+.description2 {
+	color:#666;
+	line-height:1.4;
+}
+
+.centerwrap {
+	width: 960px;
+	margin-top:120px;
+	height:165px;
+	position:relative;
+}
+
+
+.centerwrap2 {
+	width: 960px;
+	margin-top:75px;
+	height:165px;
+}
+
+.sbox {
+	width: 180px;
+	height:165px;
+	margin-right: 23px;
+	float: left;
+	display: inline;
+	background-image:url(../images/services_box.png);
+	padding:20px;
+	position:relative;
+	z-index:1;
+}
+
+.sbox-2 {
+	width: 180px;
+	height:165px;
+	float: left;
+	display: inline;
+	background-image:url(../images/services_box.png);
+	padding:20px;
+		position:relative;
+	z-index:1;
+}
+
+.pcenterwrap {
+	width: 960px;
+	border-bottom: 1px #ccc solid;
+	display: block;
+	padding-bottom:40px;
+	padding-top:40px;
+	position:relative;
+}
+
+.pcolleft {
+	width: 330px;
+	float: right;
+	padding-top:1px;
+	line-height:normal;
+	position:relative;
+
+}
+
+.pcolleft p {
+	color:#666;
+}
+
+.pcolright {
+	width: 550px;
+	height: 194px;
+	position: relative;
+	display: block;
+	float: left;
+
+}
+
+.pcolright a {
+	border: none;
+}
+
+h4 {
+	color: #333;
+	font-weight:bold;
+	font-size: 20px;
+	padding-bottom:10px;
+	border-bottom: 1px #333 solid
+}
+
+.smalltitle {
+	font-weight:bold;
+	color:#333
+}
+
+.start {
+	padding-top:15px;
+}
+
+br.clear {
+	clear: both;
+}
+
+a {
+	color: #666;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #999;
+	border-bottom: none;
+}
+
+.promo a {
+	display: none;
+	width: 517px;
+	height: 163px;
+	background: url(../images/overlay.png);
+	position: absolute;
+	top:16px;
+	left:16px;
+	text-decoration:none;
+}
+
+.texthide {
+	visibility: hidden;
+}
+
+#websites {
+	height:auto;
+	position:relative;
+	top:40px;
+	z-index:1;
+}
+
+#num1 {
+	background-image:url(../images/no1.png);
+	width:46px;
+	height:46px;
+	float:left;
+	margin-right:15px;
+	margin-top:-5px;
+}
+
+#num2 {
+	background-image:url(../images/no2.png);
+	width:46px;
+	height:46px;
+	float:left;
+	margin-right:15px;
+	margin-top:-5px;
+}
+
+#num3 {
+	background-image:url(../images/no3.png);
+	width:46px;
+	height:46px;
+	float:left;
+	margin-right:15px;
+	margin-top:-5px;
+}
+
+#num4 {
+	background-image:url(../images/no4.png);
+	width:46px;
+	height:46px;
+	float:left;
+	margin-right:15px;
+	margin-top:-5px;
+}
+
+.nojavaMessage-1 { position:relative; left:5px; top:31px; width: 433px; height: 295px; background: #ededed url(../images/javaerror.png); display: block; }

@@ -1,0 +1,51 @@
+﻿HSBC_GR_FR_728x90.swf Movie Report
+-----------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          40385          40385    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  3622
+
+Symbol          Shape Bytes    Text Bytes    ActionScript Bytes
+------------    -----------    ----------    ------------------
+ARROW                    25             0                     0
+copy1                     0           112                     0
+copy2                     0             0                     0
+copy3                     0           154                     0
+copy4                     0             0                     0
+endCopy1                  0           142                     0
+endCopy2                  0           113                     0
+latitude                  0            79                     0
+mc Lean more              0            66                     0
+mc Legal                  0            56                     0
+mc LOGO                2381             0                     0
+mcBuild                   0            91                     0
+pic1                      0             0                     0
+pic2                      0             0                     0
+Red Bar                  61             0                     0
+
+Font Name                 Bytes         Characters
+----------------------    ----------    ----------
+LucidaGrande                     247     
+LucidaGrande-Bold Bold           251     
+Univers-Bold                    2246     .DEadefhijmnoprstuxzèé’
+Univers-Light                   3997     ,-.0568ABCHLNOPRSUabcdefgilmnopqrstuvxyz°Éé’
+Univers-LightOblique            1291     BCHSadenqu
+
+ActionScript Bytes    Location
+------------------    --------
+              3622    Scene 1::: AS :::1
+                 0    endCopy1:Layer 1:1
+              5994    ActionScript 2.0 Classes
+
+Bitmap                  Compressed    Original      Compression
+--------------------    ----------    ----------    -----------
+MirrorLEADERzoom.jpg          8017        262080    JPEG Quality=50
+MirrorLEADERfull.jpg         10847        262080    JPEG Quality=50
+
+
+
+

@@ -1,0 +1,48 @@
+﻿TH_CampDay_EN2_728x90.swf Movie Report
+---------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          22490          22490    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  2401
+
+Symbol             Shape Bytes    Text Bytes    ActionScript Bytes
+---------------    -----------    ----------    ------------------
+campDay Logo              1527             0                     0
+copy1                        0            63                     0
+copy2                        0             0                     0
+copy3                        0            54                     0
+copy4                        0            46                     0
+copy5                        0            89                     0
+foundation Logo              0             0                     0
+kid1                         0             0                     0
+kid2                         0             0                     0
+kid3                         0             0                     0
+kids                         0             0                     0
+maskRect                    28             0                     0
+streak                       0             0                     0
+
+Font Name                     Bytes         Characters
+--------------------------    ----------    ----------
+AmericanTypewriter-MediumA          4243     .FTacdefghiklmnoprstuvy
+
+ActionScript Bytes    Location
+------------------    --------
+              2401    Scene 1:ACTIONS:1
+              3619    ActionScript 2.0 Classes
+
+Bitmap            Compressed    Original      Compression
+--------------    ----------    ----------    -----------
+campday.png             1167          3528    Lossless
+foundation.png           841         13104    Lossless
+streak.png               528         11628    Lossless
+kid3.png                3045         26572    JPEG Quality=80
+kid2.png                2340         14204    JPEG Quality=80
+kid1.png                1925         15372    JPEG Quality=80
+
+
+
+

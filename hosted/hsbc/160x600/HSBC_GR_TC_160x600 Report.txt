@@ -1,0 +1,52 @@
+﻿HSBC_GR_TC_160x600.swf Movie Report
+------------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          45436          45436    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  3462
+
+Symbol          Shape Bytes    Text Bytes    ActionScript Bytes
+------------    -----------    ----------    ------------------
+ARROW                    24             0                     0
+copy1                     0             0                     0
+copy2                     0             0                     0
+copy3                     0             0                     0
+copy4                     0             0                     0
+endCopy1                  0             0                     0
+endCopy2                  0             0                     0
+latitude                  0             0                     0
+mc Lean more              0             0                     0
+mc Legal                  0             0                     0
+mc LOGO                2133             0                     6
+mcBuild                   0             0                     0
+pic1                      0             0                     0
+pic2                      0             0                     0
+Red Bar                  69             0                     0
+
+ActionScript Bytes    Location
+------------------    --------
+              3462    Scene 1::: AS :::1
+                 6    mc LOGO:Layer 4:1
+              5832    ActionScript 2.0 Classes
+
+Bitmap               Compressed    Original      Compression
+-----------------    ----------    ----------    -----------
+MirrorSKYzoom.jpg         10230        384000    JPEG Quality=40
+MirrorSKYfull.jpg          8884        384000    JPEG Quality=45
+7.jpg                      1736         16640    Imported JPEG=102
+4.jpg                      2424         21340    Imported JPEG=102
+6.jpg                      1033          2756    JPEG Quality=30
+5.jpg                      1338         10540    JPEG Quality=30
+2.png                      2057         30488    Lossless
+1.png                      1060         14080    Lossless
+0.png                       527          3800    Lossless
+3.jpg                      2843         26160    Imported JPEG=102
+8.jpg                       956          1664    Imported JPEG=102
+
+
+
+

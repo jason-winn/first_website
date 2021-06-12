@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<LINK REL="SHORTCUT ICON" HREF="favicon.ico">
+<title>VATCAN</title>
+<style type="text/css">
+body 
+{
+background-image:
+url('background.gif')
+}
+#container{background-image:url(background.png); background-position:top-left; background-repeat:no-repeat}
+   html, body, #wrapper {
+      height:100%;
+      margin: 0;
+      padding: 0;
+      border: none;
+      text-align: center;
+   }
+   #wrapper {
+      margin: 0 auto;
+      text-align: left;
+      vertical-align: middle;
+      width: 400px;
+   }
+.style2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+</style>
+<script type="text/javascript" src="swfobject.js"></script>
+</head>
+<body>
+<div id="container">
+<table id="wrapper">
+  <tr>
+    <td>
+    <div class="style2" id="flashcontent">		
+      <div align="center">Sorry but this site requires flash player.	</div>
+    </div>
+	<script type="text/javascript">
+		// <![CDATA[
+		
+		var so = new SWFObject("vatcan.swf", "vatcan", "1024", "850", "9");
+		so.addParam("wmode", "transparent");
+		so.addParam("menu", "false")
+		so.write("flashcontent");
+	
+		
+		// ]]>
+	</script> </td></tr>
+</table>
+    </div>
+
+</body>
+</html>

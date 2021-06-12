@@ -1,0 +1,429 @@
+@import "bourbon";
+@import "normalize.css";
+
+/*-------------------------
+	Variables
+--------------------------*/
+
+$main: black;
+$programming: #7fa965;
+$mechanical: #669fac;
+$design: #af759f;
+
+$base-font-size: 14px;
+$title-font-size: 74px;
+$base-font-colour: white;
+
+/*-------------------------
+	Mixins
+--------------------------*/
+
+@mixin button ($basecolor, $inverted) {
+	text-align: center;
+	width: 250px;
+	padding: 20px 0;
+	text-transform: uppercase;
+	border: 1px solid white;
+	@if $inverted {
+		background-color: white;
+    	color: $basecolor;
+    } @else {
+	    background-color: $basecolor;
+	    color: white;
+    }
+}
+
+/*-------------------------
+	General Styles
+--------------------------*/
+
+* {
+	@include box-sizing(border-box);
+}
+
+html, body, ul, ol {
+  	margin: 0;
+  	padding: 0;
+}
+
+html, body {
+	height: 100%;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+ul {
+	list-style: none;
+}
+
+body {
+	color: $base-font-colour;
+  	font-family: $helvetica;
+	font-size: $base-font-size;
+	text-align: center;
+  	text-decoration: none;
+  	font-weight: bold;
+  	float: left;
+    min-width: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: $title-font-size;
+	text-transform: uppercase;
+	margin: 0 0;
+	padding: 0 0;
+}
+
+.button {
+	display: block;
+	color: white;
+	text-align: center;
+	width: 250px;
+	padding: 20px 0;
+	text-transform: uppercase;	
+}
+
+#main {
+	.button {
+		&:hover {
+			color: $main;
+			background-color: white;
+		}
+	}
+}
+
+#main {
+	.buttons {
+		margin-top: 10px;
+	}
+	
+	background-color: $main;
+	.button {
+		&:hover {
+			color: $main;
+			background-color: white;
+		}
+	}
+}
+
+#programming {
+	.buttons {
+		margin-top: 100px;
+	}
+
+	background-color: $programming;
+	.button {
+		&:hover {
+			color: $programming;
+			background-color: white;
+		}
+	}
+}
+
+#mechanical {
+	.buttons {
+		margin-top: 100px;
+	}
+
+	background-color: $mechanical;
+	.button {
+		&:hover {
+			color: $mechanical;
+			background-color: white;
+		}
+	}
+}
+
+#design {
+	.buttons {
+		margin-top: 100px;
+	}
+	
+	background-color: $design;
+	.button {
+		&:hover {
+			color: $design;
+			background-color: white;
+		}
+	}
+}
+
+.section {
+	height: auto;
+	min-height: 100% !important;
+	width: 100%;
+	text-align: left;
+	position: relative;
+	overflow: hidden;
+}
+
+.title-box {
+	white-space: nowrap;
+	text-align: left;
+	padding-top: 80px;
+	padding-left: 40px;
+	margin-right: 220px; //The width of the right absolute content
+}
+
+.buttons {
+	white-space: nowrap;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 80px;
+	
+	li {
+		border: 1px solid white;
+		border-right: none;
+		display: inline-block;
+		
+		&:last-child {
+			border-right: 1px solid white;
+		}
+	}
+}
+
+.upper-right-content {
+	position: absolute;
+	right: 20px;
+	bottom: 0;
+	width: 220px;
+	height: 100%;
+	white-space: nowrap;
+}
+
+/*-------------------------
+	Main Styles
+--------------------------*/
+
+.bottom-push {
+	text-align: center;
+	width: 100%;
+    margin: -40px auto 0;
+    height: 40px;
+    position: relative;
+}
+
+.arrow-content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 40px;
+	height: 20px;
+}
+
+.arrow-down {
+	width: 0; 
+	height: 0; 
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 20px solid white;
+}
+
+/*-------------------------
+	Programming Styles
+--------------------------*/
+
+.bits {
+	li {
+		display: inline-block;
+		line-height: 40px;
+		text-align: center;
+		width: 40px;
+		height: 40px;
+		background-color: mix(white, $programming, 10);
+		font-size: golden-ratio($base-font-size, 1);
+		color: white;
+		font-family: "Courier New", Courier, monospace;
+		margin-right: 3px;
+		
+		&:last-child {
+			margin-right: 0;
+		}
+	}
+}
+
+#vector-laptop {
+	position: absolute;
+	right: 80px;
+	top: 0;
+	text-indent: -9999px;
+    width: 268px; 
+    height: 146px;
+	background: url('../vector/laptop.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+	margin-right: 20px;
+}
+
+#vector-phone {
+	position: absolute;
+	right: 0;
+	top: 0;
+	text-indent: -9999px;
+    width: 74px; 
+    height: 144px;
+	background: url('../vector/phone.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+}
+
+/*-------------------------
+	Mechanical Styles
+--------------------------*/
+
+.vector-beam {
+	display: block;
+	text-indent: -9999px;
+    width: 975px; 
+    height: 90px;
+    margin-left: -30px;
+	background: url('../vector/beam.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+}
+
+#vector-gear1 {
+	position: absolute;
+	right: 140px;
+	top: 30px;
+	text-indent: -9999px;
+    width: 100px; 
+    height: 100px;
+	background: url('../vector/gear.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+}
+
+#vector-gear2 {
+	position: absolute;
+	right: 0;
+	top: 0;
+	text-indent: -9999px;
+    width: 150px; 
+    height: 150px;
+	background: url('../vector/gear.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+}
+
+#vector-rope {
+	position: absolute;
+	right: 193px;
+	top: 83px;
+	text-indent: -9999px;
+    width: 3px; 
+    height: 400px;
+	background: #176273;
+}
+
+#vector-mass {
+	position: absolute;
+	right: 175px;
+	top: 300px;
+	text-indent: -9999px;
+    width: 40px; 
+    height: 40px;
+	background: #176273;
+}
+
+.side-rack {
+	position: absolute;
+	right: 0;
+	text-indent: -9999px;
+    width: 20px;
+    height: 100%;
+	background: url('../vector/rack.svg');
+	background-size:contain; 
+	background-repeat:repeat-y;
+}
+
+/*-------------------------
+	Design Styles
+--------------------------*/
+
+.vector-penstroke {
+	display: block;
+	text-indent: -9999px;
+    width: 755px; 
+    height: 68px;
+	background: url('../vector/penstroke.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+}
+
+#vector-roller {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	text-indent: -9999px;
+    width: 110px; 
+    height: 110px;
+	background: url('../vector/roller.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+	z-index: 2;
+}
+
+#vector-brush2 {
+	position: absolute;
+	right:60px;
+	top: 0px;
+	text-indent: -9999px;
+    width: 110px; 
+    height: 110px;
+	background: url('../vector/brush.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+	z-index: 2;
+}
+
+#vector-brush1 {
+	position: absolute;
+	right:140px;
+	top: 0px;
+	text-indent: -9999px;
+    width: 90px; 
+    height: 90px;
+	background: url('../vector/brush.svg');
+	background-size:contain; 
+	background-repeat:no-repeat;
+	z-index: 2;
+}
+
+#vector-stroke1 {
+	position: absolute;
+	right: 207px;
+	top: 70px;
+	text-indent: -9999px;
+    width: 22px; 
+    height: 100%;
+	background: white;
+}
+
+#vector-stroke2 {
+	position: absolute;
+	right: 142px;
+	top: 90px;
+	text-indent: -9999px;
+    width: 27px; 
+    height: 100%;
+	background: white;
+}
+
+#vector-stroke-roller {
+	position: absolute;
+	right: 38px;
+	top: 90px;
+	text-indent: -9999px;
+    width: 65px; 
+    height: 100%;
+	background: white;
+}

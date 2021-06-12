@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"> 
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<title>Jason Winn</title>
+	
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+
+	<script src="js/jquery-1.9.1.min.js"></script>
+	
+	<script>
+	var numSections = 4;
+	
+	var sectionHeight = 0;
+	var scrollAmount = 0;
+	var sectionStates = {};
+	
+	jQuery.fn.rotate = function(degrees) {
+    $(this).css({'-webkit-transform' : 'rotate('+ degrees +'deg)',
+                 '-moz-transform' : 'rotate('+ degrees +'deg)',
+                 '-ms-transform' : 'rotate('+ degrees +'deg)',
+                 'transform' : 'rotate('+ degrees +'deg)'});
+	};
+	
+	function refreshSectionHeight() {
+		sectionHeight = $('.section').height();
+		console.log("SECTION: " + sectionHeight);
+		checkSections();
+	}
+	
+	function refreshScrollAmount() {
+		scrollAmount = $(document).scrollTop();
+		checkSections();
+	}
+	
+	function checkSection(section) {
+		var activeSection = Math.floor(scrollAmount/sectionHeight);
+		
+		if(section === activeSection || section === (activeSection + 1)) {
+			return true;
+		}
+		
+		return false;
+	}
+	
+	function checkSections() {
+		for(var i=0; i < numSections; i++) {
+			changeSectionState(i, checkSection(i));
+		}
+	}
+	
+	function changeSectionState(section, active) {
+	  	if(sectionStates[section] !== active) {
+	  		sectionStates[section] = active;
+	  	}
+  	}
+	
+	$(document).scroll(function() {
+		refreshScrollAmount();
+		performParallax();
+	});
+	
+	$(document).ready(function() {
+	    refreshSectionHeight();
+	});
+	
+	$(window).resize(function(){
+		refreshSectionHeight();
+		performParallax();
+  	});
+  	
+  	function performParallax() {
+	  	for(var i=0; i < numSections; i++) {
+			if(sectionStates[i]) {
+			var percentageThroughSection = (scrollAmount - sectionHeight * i)/sectionHeight + 0.5;
+			var offset = -sectionHeight/2;
+				switch(i) {
+				  	case 1 : {
+					  	$("#programming-dynamic").css({ top: offset + sectionHeight - (sectionHeight * percentageThroughSection) });
+					  	break;
+				  	}
+				  	
+				  	case 2 : {
+					  	$("#mechanical-dynamic").css({ top: offset + sectionHeight - (sectionHeight * percentageThroughSection), right: 5 });
+					  	
+					  	var rotationOffset = 20;
+					  	var gear2Diam = $('#vector-gear2').width();
+					  	var gear1Diam = $('#vector-gear1').width();
+					  	var gearRatio = gear2Diam/gear1Diam;
+					  	var totalGear2Rotation = sectionHeight/(Math.PI*gear2Diam) * 360;
+					  	var totalGear1Rotation = sectionHeight/(Math.PI*gear1Diam) * -360;
+					  	var gear2ActiveRotation = rotationOffset + percentageThroughSection * totalGear2Rotation;
+						$('#vector-gear2').rotate(gear2ActiveRotation);
+						$('#vector-gear1').rotate(gear2ActiveRotation * -gearRatio);
+						var ropeHeight = sectionHeight/3 * gearRatio * percentageThroughSection;
+						var massOffset = 80;
+						$('#vector-rope').css({ height: ropeHeight });
+						$('#vector-mass').css({ top: massOffset + ropeHeight });
+					  	break;
+				  	}
+				  	
+				  	case 3 : {
+				  	$("#design-dynamic").css({ top: offset + sectionHeight - (sectionHeight * percentageThroughSection) });
+					  	break;
+				  	}
+			  	}
+			}
+		}
+  	}
+  
+    </script>
+
+
+</head>
+<body>
+	<div class="section" id="main">
+		<div class="title-box">
+			<div><h1>JASON WINN</h1></div>
+		</div>
+		
+		<ul class="buttons">
+				<li><a class="button" target="_blank" href="resources/resume.pdf">RESUM&Eacute;</a></li><li><a class="button" target="_blank" href="mailto:jason.winn1@gmail.com">CONTACT</a></li>
+			</ul>
+		
+	</div>
+	<div class="bottom-push">
+			<div class="arrow-content">
+				<div class="arrow-down"></div>
+			</div>
+		</div>
+
+	
+	<div class="section" id="programming">
+	
+	<div class="upper-right-content" id="programming-dynamic">
+		<div id="vector-laptop"></div><div id="vector-phone"></div>
+	</div>
+	
+		<div class="title-box">
+			<div><h1>PROGRAMMER</h1></div>
+			
+			<ul class="bits">
+			<li>1</li><li>0</li><li>0</li><li>1</li><li>0</li><li>1</li><li>1</li><li>0</li><li>1</li><li>0</li><li>1</li><li>1</li><li>0</li>
+			</ul>
+		</div>
+		
+		<ul class="buttons">
+				<li><a class="button" href="#">WORK PROJECTS</a></li><li><a class="button" href="#">EGGER</a></li><li><a class="button" href="#">IBEACON</a></li>
+			</ul>
+	</div>
+	
+	<div class="section" id="mechanical">
+	
+	<div class="upper-right-content" id="mechanical-dynamic">
+		<div id="vector-gear1"></div><div id="vector-gear2"></div>
+		<div id="vector-rope"></div><div id="vector-mass"></div>
+	</div>
+	
+	<div class="side-rack"></div>
+	
+		<div class="title-box">
+			<div><h1>MECHANICAL ENGINEER</h1></div>
+			
+			<div class="vector-beam"></div>
+		</div>
+		
+		<ul class="buttons">
+				<li><a class="button" href="#">PILOT LICENSE</a></li><li><a class="button" href="#">BOLT</a></li><li><a class="button" href="#">PHYSICS ENGINE</a></li>
+			</ul>
+	</div>
+	
+	<div class="section" id="design">
+	
+	<div class="upper-right-content" id="design-dynamic">
+		<div id="vector-brush1"></div><div id="vector-brush2"></div><div id="vector-roller"></div>
+		<div id="vector-stroke2"></div><div id="vector-stroke1"></div><div id="vector-stroke-roller"></div>
+	</div>
+	
+		<div class="title-box">
+			<div><h1>GRAPHIC DESIGNER</h1></div>
+			
+			<div class="vector-penstroke"></div>
+			
+		</div>
+		
+		<ul class="buttons">
+				<li><a class="button" href="#">LUGGAGE LOADER</a></li><li><a class="button" href="#">SHELL</a></li><li><a class="button" href="#">ASSORTED</a></li>
+			</ul>
+	</div>
+	
+</body>
+</html>

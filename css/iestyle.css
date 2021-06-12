@@ -1,0 +1,12 @@
+body {
+	font-family: arial, helvetica, sans-serif;
+	}
+	
+ul#portfolio {display:none;}
+#bgpic {
+	background:url(../hometicker/ie6.png);
+	width:450px;
+	height:339px;
+	float:right;
+	clear:right;
+}

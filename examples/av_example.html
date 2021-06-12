@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Portfolio Example</title>
+<style>
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	height:100%;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+#back {
+	background-image:url(backing.png);
+	background-repeat:no-repeat;
+	width:900px;
+	height:800px;
+	text-align:center;
+}
+
+#close {
+	background-image:url(close.png);
+	background-repeat:no-repeat;
+	width:21px;
+	height:22px;
+	position:absolute;
+	left:15px;
+	top:15px;
+}
+
+#ex1 {
+	position:relative;
+	margin-top:200px;
+	border: 1px solid white;
+}
+
+#ex2 {
+	position:relative;
+	margin-top:200px;
+	margin-left:20px;
+	border: 1px solid white;
+}
+
+#ex3 {
+	position:relative;
+	margin-top:20px;
+	border: 1px solid white;
+}
+
+
+</style>
+<script type="text/javascript" src="swfobject.js"></script>
+</head>
+<body>
+<div id="back"><a href="javascript:window.close();"><div id="close"></div></a>
+
+
+ <div id="ex1">
+      <p>Example 1</p>
+    </div>
+  <script type="text/javascript">
+    swfobject.embedSWF("av/acuvue_300x250_en.swf", "ex1", "300", "250", "8.0.0");
+    </script>
+    
+     <div id="ex2">
+      <p>Example 2</p>
+    </div>
+  <script type="text/javascript">
+    swfobject.embedSWF("av/acuvue_300x250_en1.swf", "ex2", "300", "250", "8.0.0");
+    </script>
+
+
+
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,1611 @@
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'jasonwinnfatcowmysqlcom' (1) in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 5
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'jasonwinnfatcowmysqlcom' (1) in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 5
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'jasonwinnfatcowmysqlcom' (1) in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 5
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'jasonwinnfatcowmysqlcom' (1) in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 5
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'jasonwinnfatcowmysqlcom' (1) in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 5
+PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 31
+PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 31
+PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 31
+PHP Warning:  mysql_numrows(): supplied argument is not a valid MySQL result resource in /hermes/web08/b2196/moo.jasonwinn/testsql.php on line 31
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Fatal error:  Uncaught OAuthException: Error validating application.
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/src/facebook.php on line 522
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Warning:  require_once(../src/facebook.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 3
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 11
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 11
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 11
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 11
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 11
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 11
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 16
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 8
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 8
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 8
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/luggageloader/index.php on line 8
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 8
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 3
+PHP Warning:  require(../src/facebook.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 3
+PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../src/facebook.php' (include_path='.:/usr/local/lib/php-5.2.12/lib/php') in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 3
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 10
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 10
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 10
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 10
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 10
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 16
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 16
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 13
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 7
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 7
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 7
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 14
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 14
+PHP Fatal error:  Call to undefined method FacebookRestClient::users_hasAppPermission() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 14
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 15
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 29
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 29
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 29
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 29
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 29
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 29
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 23
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 23
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 23
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 23
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 23
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 21
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 21
+PHP Fatal error:  Call to undefined method FacebookRestClient::stream_publish() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 21
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 7
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 7
+PHP Fatal error:  Call to undefined method Facebook::require_login() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 7
+PHP Parse error:  syntax error, unexpected T_PUBLIC in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 33
+PHP Parse error:  syntax error, unexpected T_PUBLIC in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 33
+PHP Parse error:  syntax error, unexpected T_PUBLIC in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 33
+PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 56
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 58
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 58
+PHP Parse error:  syntax error, unexpected T_STRING in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 58
+PHP Parse error:  syntax error, unexpected '{' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '{' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '{' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected ':' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '=' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '=' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '=' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '{' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '{' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected '{' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 47
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 48
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 48
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 48
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 48
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 48
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 62
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 62
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 62
+PHP Parse error:  syntax error, unexpected '}' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 66
+PHP Parse error:  syntax error, unexpected '}' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 66
+PHP Parse error:  syntax error, unexpected '}' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 66
+PHP Parse error:  syntax error, unexpected '}' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 66
+PHP Parse error:  syntax error, unexpected '}' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 66
+PHP Parse error:  syntax error, unexpected '}' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 66
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 50
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 50
+PHP Parse error:  syntax error, unexpected T_STRING, expecting ')' in /hermes/web08/b2196/moo.jasonwinn/facebook/index.php on line 50
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Failed to set markup' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php on line 1734
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 7
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 14
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 14
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 14
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 14
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 14
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 14
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 28
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected '<' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 25
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 26
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+PHP Parse error:  syntax error, unexpected T_ECHO in /hermes/web08/b2196/moo.jasonwinn/facebook/scoresave.php on line 27
+20101029T001708: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 121
+
+20101029T001741: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 121
+
+20101029T001750: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 121
+
+20101029T001813: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 121
+
+20101029T002003: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 117
+
+20101029T002028: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 117
+
+20101029T002036: www.jasonwinn.ca/facebook/scores.php
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php:111) in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 117
+
+20101029T091535: www.jasonwinn.ca/facebook/scores.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 39
+
+20101029T091558: www.jasonwinn.ca/facebook/scores.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 39
+
+20101029T091636: www.jasonwinn.ca/facebook/scores.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 39
+
+20101029T091652: www.jasonwinn.ca/facebook/scores.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 39
+
+20101029T092129: www.jasonwinn.ca/facebook/scores.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 39
+
+20101029T092132: www.jasonwinn.ca/facebook/scores.php
+PHP Parse error:  syntax error, unexpected '[' in /hermes/web08/b2196/moo.jasonwinn/facebook/scores.php on line 39
+
+20101030T160125: colinwinn.com/new/index.php
+PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/colinwinn/new/index.php on line 49
+
+20101030T160134: colinwinn.com/new/index.php
+PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in /hermes/web08/b2196/moo.jasonwinn/colinwinn/new/index.php on line 49
+
+20110113T221515: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1127653840')
+#2 {main}
+  thrown in /hermes
+20110113T221516: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1127653840')
+#2 {main}
+  thrown in /hermes
+20110114T172426: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001935211516')
+#2 {main}
+  thrown in /h
+20110114T172428: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001935211516')
+#2 {main}
+  thrown in /h
+20110115T164401: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110115T164404: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110115T164409: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110115T164410: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110115T215820: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1127653840')
+#2 {main}
+  thrown in /hermes
+20110115T215821: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1127653840')
+#2 {main}
+  thrown in /hermes
+20110116T024034: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507190299')
+#2 {main}
+  thrown in /hermes/
+20110116T024035: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507190299')
+#2 {main}
+  thrown in /hermes/
+20110117T050613: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050614: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050628: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050629: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050637: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050638: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050651: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T050652: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1637977959')
+#2 {main}
+  thrown in /hermes
+20110117T124700: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110117T124701: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110117T124725: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110117T124727: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110117T150552: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T150552: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T150610: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T150610: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T150615: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T150620: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T150621: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '116401527')
+#2 {main}
+  thrown in /hermes/
+20110117T152146: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110117T152147: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110117T152215: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110117T152217: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110117T152315: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110117T152318: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110118T182741: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110118T182741: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110118T183659: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000932213246')
+#2 {main}
+  thrown in /h
+20110118T183659: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000932213246')
+#2 {main}
+  thrown in /h
+20110118T184620: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110118T184620: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110118T185450: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000932213246')
+#2 {main}
+  thrown in /h
+20110118T185451: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000932213246')
+#2 {main}
+  thrown in /h
+20110119T190727: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110119T190728: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110119T190734: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110119T190734: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110120T193330: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193332: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193447: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193448: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193449: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193450: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193540: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T193540: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110120T233559: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110120T233559: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110121T235054: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110121T235054: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110123T161118: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001487167620')
+#2 {main}
+  thrown in /h
+20110123T161118: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001487167620')
+#2 {main}
+  thrown in /h
+20110124T165658: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110124T165658: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110125T211804: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110125T211805: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T184743: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T184744: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T184756: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T184757: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T184901: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T184902: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T185752: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T185753: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T185918: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110128T185919: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '507252634')
+#2 {main}
+  thrown in /hermes/
+20110201T125923: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000892745937')
+#2 {main}
+  thrown in /h
+20110201T125924: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000892745937')
+#2 {main}
+  thrown in /h
+20110205T103316: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '510266580')
+#2 {main}
+  thrown in /hermes/
+20110205T103317: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '510266580')
+#2 {main}
+  thrown in /hermes/
+20110206T094905: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000007337309')
+#2 {main}
+  thrown in /h
+20110206T094906: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000007337309')
+#2 {main}
+  thrown in /h
+20110206T111558: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000644959152')
+#2 {main}
+  thrown in /h
+20110206T111559: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000644959152')
+#2 {main}
+  thrown in /h
+20110207T152602: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '500756654')
+#2 {main}
+  thrown in /hermes/
+20110207T152602: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '500756654')
+#2 {main}
+  thrown in /hermes/
+20110207T152606: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '500756654')
+#2 {main}
+  thrown in /hermes/
+20110207T152608: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '500756654')
+#2 {main}
+  thrown in /hermes/
+20110207T152733: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '500756654')
+#2 {main}
+  thrown in /hermes/
+20110207T152734: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '500756654')
+#2 {main}
+  thrown in /hermes/
+20110210T001621: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '713678921')
+#2 {main}
+  thrown in /hermes/
+20110210T001622: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '713678921')
+#2 {main}
+  thrown in /hermes/
+20110210T001640: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '713678921')
+#2 {main}
+  thrown in /hermes/
+20110210T001641: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '713678921')
+#2 {main}
+  thrown in /hermes/
+20110210T045339: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1426942625')
+#2 {main}
+  thrown in /hermes
+20110210T045339: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1426942625')
+#2 {main}
+  thrown in /hermes
+20110210T045342: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1426942625')
+#2 {main}
+  thrown in /hermes
+20110210T045342: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1426942625')
+#2 {main}
+  thrown in /hermes
+20110210T045352: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1426942625')
+#2 {main}
+  thrown in /hermes
+20110210T045352: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1426942625')
+#2 {main}
+  thrown in /hermes
+20110210T081927: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000007337309')
+#2 {main}
+  thrown in /h
+20110210T081928: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000007337309')
+#2 {main}
+  thrown in /h
+20110212T163349: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001780269217')
+#2 {main}
+  thrown in /h
+20110212T163350: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001780269217')
+#2 {main}
+  thrown in /h
+20110217T120822: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120832: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120834: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120834: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120838: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120838: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120932: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110217T120937: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110220T083423: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001935602245')
+#2 {main}
+  thrown in /h
+20110220T221847: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001319463403')
+#2 {main}
+  thrown in /h
+20110220T230355: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001319463403')
+#2 {main}
+  thrown in /h
+20110221T133311: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1375000771')
+#2 {main}
+  thrown in /hermes
+20110221T133317: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1375000771')
+#2 {main}
+  thrown in /hermes
+20110221T155956: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1375000771')
+#2 {main}
+  thrown in /hermes
+20110222T145716: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1375000771')
+#2 {main}
+  thrown in /hermes
+20110223T162709: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '514841573')
+#2 {main}
+  thrown in /hermes/
+20110223T162730: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '514841573')
+#2 {main}
+  thrown in /hermes/
+20110223T162813: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '514841573')
+#2 {main}
+  thrown in /hermes/
+20110224T204115: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000477411512')
+#2 {main}
+  thrown in /h
+20110224T204140: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000477411512')
+#2 {main}
+  thrown in /h
+20110224T204532: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000477411512')
+#2 {main}
+  thrown in /h
+20110225T201726: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000477411512')
+#2 {main}
+  thrown in /h
+20110227T200049: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1127653840')
+#2 {main}
+  thrown in /hermes
+20110301T162554: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001487167620')
+#2 {main}
+  thrown in /h
+20110302T215233: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110303T214822: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001013271609')
+#2 {main}
+  thrown in /h
+20110304T125604: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20110305T235933: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1127653840')
+#2 {main}
+  thrown in /hermes
+20110307T013617: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1652790332')
+#2 {main}
+  thrown in /hermes
+20110307T013702: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1652790332')
+#2 {main}
+  thrown in /hermes
+20110307T133142: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000761235974')
+#2 {main}
+  thrown in /h
+20110308T142233: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000761235974')
+#2 {main}
+  thrown in /h
+20110310T154316: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000761235974')
+#2 {main}
+  thrown in /h
+20110311T161459: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000477411512')
+#2 {main}
+  thrown in /h
+20110315T215856: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001197146815')
+#2 {main}
+  thrown in /h
+20110315T215904: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001197146815')
+#2 {main}
+  thrown in /h
+20110315T215907: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001197146815')
+#2 {main}
+  thrown in /h
+20110316T023615: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1030602990')
+#2 {main}
+  thrown in /hermes
+20110316T023628: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1030602990')
+#2 {main}
+  thrown in /hermes
+20110321T090423: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '1655469144')
+#2 {main}
+  thrown in /hermes
+20110324T134816: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001230882487')
+#2 {main}
+  thrown in /h
+20110324T144453: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001230882487')
+#2 {main}
+  thrown in /h
+20110324T162318: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001230882487')
+#2 {main}
+  thrown in /h
+20110326T073111: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001997553860')
+#2 {main}
+  thrown in /h
+20110326T073125: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001997553860')
+#2 {main}
+  thrown in /h
+20110326T073157: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001310351092')
+#2 {main}
+  thrown in /h
+20110326T114832: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000778074860')
+#2 {main}
+  thrown in /h
+20110326T114847: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000778074860')
+#2 {main}
+  thrown in /h
+20110326T114848: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000778074860')
+#2 {main}
+  thrown in /h
+20110326T143455: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001310351092')
+#2 {main}
+  thrown in /h
+20110326T185554: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001997553860')
+#2 {main}
+  thrown in /h
+20110326T185605: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001997553860')
+#2 {main}
+  thrown in /h
+20110327T035716: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100001997553860')
+#2 {main}
+  thrown in /h
+20110330T140411: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '100000038625499')
+#2 {main}
+  thrown in /h
+20110331T142053: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '809455044')
+#2 {main}
+  thrown in /hermes/
+20110331T142910: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '809455044')
+#2 {main}
+  thrown in /hermes/
+20110404T214955: www.jasonwinn.ca/facebook/index.php
+PHP Fatal error:  Uncaught exception 'FacebookRestClientException' with message 'Unknown method' in /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php:1734
+Stack trace:
+#0 /hermes/web08/b2196/moo.jasonwinn/facebook/includes/facebookapi_php5_restlib.php(691): FacebookRestClient->call_method('facebook.profil...', Array)
+#1 /hermes/web08/b2196/moo.jasonwinn/facebook/index.php(33): FacebookRestClient->profile_setFBML('?<style type="t...', '794150299')
+#2 {main}
+  thrown in /hermes/
+20120411T103226: colinwinn.com/index.php
+suexec policy violation: see suexec log for more details
+
+20120619T225956: jasonwinn.ca/test.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T230016: jasonwinn.ca/test.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T230026: jasonwinn.ca/test.php
+PHP Parse error:  syntax error, unexpected T_VARIABLE in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T230122: jasonwinn.ca/test.php
+PHP Fatal error:  Call to undefined function     mail() in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T230124: jasonwinn.ca/test.php
+PHP Fatal error:  Call to undefined function     mail() in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T230127: www.jasonwinn.ca/test.php
+PHP Fatal error:  Call to undefined function     mail() in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T230319: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230320: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230321: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230406: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230407: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230411: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230412: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230428: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230443: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230528: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230640: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230641: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230643: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230645: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230647: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230649: www.jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T230824: www.jasonwinn.ca/testit.php
+suexec policy violation: see suexec log for more details
+
+20120619T230853: www.jasonwinn.ca/testit.php
+suexec policy violation: see suexec log for more details
+
+20120619T230854: www.jasonwinn.ca/testit.php
+suexec policy violation: see suexec log for more details
+
+20120619T232227: jasonwinn.ca/test.php
+suexec policy violation: see suexec log for more details
+
+20120619T232317: jasonwinn.ca/testit.php
+suexec policy violation: see suexec log for more details
+
+20120619T232323: www.jasonwinn.ca/testit.php
+suexec policy violation: see suexec log for more details
+
+20120619T232342: www.jasonwinn.ca/testit.php
+suexec policy violation: see suexec log for more details
+
+20120619T232726: www.jasonwinn.ca/test.php
+PHP Fatal error:  Call to undefined function     mail() in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20120619T232729: www.jasonwinn.ca/test.php
+PHP Fatal error:  Call to undefined function     mail() in /hermes/waloraweb090/b2196/moo.jasonwinn/test.php on line 2
+
+20121215T175633: www.colinwinn.com/index.php
+suexec failure: could not open log file
+fopen: Permission denied
+
+20121215T175655: www.colinwinn.com/index.php
+suexec failure: could not open log file
+fopen: Permission denied
+
+20121215T190319: www.colinwinn.com/index.php
+suexec failure: could not open log file
+fopen: Permission denied
+
+20121215T230043: colinwinn.com/index.php
+suexec failure: could not open log file
+fopen: Permission denied
+
